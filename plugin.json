@@ -1,0 +1,14 @@
+{
+  "name": "copilot-ux-research",
+  "description": "UX research agent that creates personas, journey maps, competitive analysis, and comprehensive research briefs. Part of the sdd-vscode-agents collection.",
+  "version": "1.0.0",
+  "author": { "name": "SufficientDaikon" },
+  "license": "MIT",
+  "homepage": "https://github.com/SufficientDaikon/copilot-ux-research",
+  "repository": "https://github.com/SufficientDaikon/copilot-ux-research",
+  "keywords": ["ux-research", "personas", "journey-maps", "competitive-analysis", "user-research"],
+  "category": "Design",
+  "tags": ["sdd-vscode-agents"],
+  "agents": "agents/",
+  "hooks": "hooks.json"
+}
